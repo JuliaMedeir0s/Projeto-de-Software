@@ -58,3 +58,9 @@ Agora, o código está organizado de forma modular e escalável, seguindo a estr
 
 ## 🚀 Como executar
 
+
+---
+
+## 👥 Membros da Equipe
+- Gustavo Delfino - (GitHub: @JuliaMedeir0s)
+- Júlia Medeiros - (GitHub: @gdelfino01)
