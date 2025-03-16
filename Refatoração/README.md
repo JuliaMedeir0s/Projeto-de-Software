@@ -98,7 +98,7 @@ Pronto! Agora você deve ver o jogo da velha rodando no seu terminal ou console 
 
 ---
 
-## O Jogo
+## #️⃣🥇 O Jogo 
 
 O Jogo da Velha é um jogo de estratégia para dois jogadores, geralmente disputado em um tabuleiro 3x3. O objetivo é formar uma linha reta com três símbolos iguais (X ou O) na horizontal, vertical ou diagonal antes do adversário. Se todas as casas forem preenchidas sem que nenhum jogador complete uma linha, o jogo termina em empate.
 
