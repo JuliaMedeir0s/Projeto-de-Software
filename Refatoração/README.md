@@ -109,22 +109,22 @@ O Jogo da Velha é um jogo de estratégia para dois jogadores, geralmente disput
 
 ### Tela 2️⃣ - Jogador X e 0 escolhendo suas posições
 
-![Jogador X e 0 escolhendo suas posições](./images/Image2.png) 
+![Jogador X e 0 escolhendo suas posições](./images/image2.png) 
 
 
 ### Tela 3️⃣ - Posição inválida
 
-![Posição inválida](./images/Image3.png)
+![Posição inválida](./images/image3.png)
 
 
 ### Tela 4️⃣ - Jogo empatado
 
-![Jogo empatado](./images/Image5.png)
+![Jogo empatado](./images/image5.png)
 
 
 ### Tela 5️⃣ - Final do Jogo
 
-![Final do Jogo](./images/Image4.png)
+![Final do Jogo](./images/image4.png)
 
 
 ## 👥 Membros da Equipe
