@@ -60,7 +60,7 @@ Agora, o código está organizado de forma modular e escalável, seguindo a estr
 
 ### Pré-requisitos
 - Certifique-se de ter o [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) instalado (versão 11 ou superior).
-- Um ambiente de desenvolvimento integrado (IDE) como [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) ou [Eclipse](https://www.eclipse.org/downloads/).
+- Um ambiente de desenvolvimento integrado (IDE).
 
 ### Passos para execução
 
