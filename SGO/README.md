@@ -12,6 +12,21 @@ O sistema visa permitir o gerenciamento completo das competições das Olimpíad
 - Controle de Resultados
 - Relatórios de Medalhas por País
 
+---
+
+### 📂 Estrutura do Repositório
+```
+├── README.md
+├── imagens/
+│   ├── diagrama-casos-de-uso.png
+│   ├── diagrama-classes-pacote.png
+│   ├── diagrama-componentes.png
+│   └── diagrama-implantacao.png
+├── modelagens/
+│   ├── plantuml-codigos.md
+```
+---
+
 ## 📌 Histórias de Usuário
 
 - Como administrador do sistema, quero cadastrar competições informando modalidade, data, horário, local e atletas inscritos, para que o evento seja corretamente agendado e organizado.
@@ -26,13 +41,19 @@ O sistema visa permitir o gerenciamento completo das competições das Olimpíad
 
 ### Diagrama de Casos de Uso
 
-### Diagrama de Classes
+![Diagrama de Casos de Uso](imagens/diagrama-casos-de-uso.png)
 
-### Diagrama de Pacotes
+### Diagrama de Classes e Pacotes
+
+![Diagrama de Classes e Pacotes](imagens/diagrama-classes-pacote.png)
 
 ### Diagrama de Componentes
 
+![Diagrama de Componentes](imagens/diagrama-componentes.png)
+
 ### Diagrama de Implantação
+
+![Diagrama de Implantaçaõ](imagens/diagrama-implantacao.png)
 
 ---
 
